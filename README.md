@@ -1,4 +1,5 @@
-# [Shopping Cart Project] (https://vercel.com/api/toolbar/link/shopping-cart-3nbk.vercel.app?via=deployment-domains-list&p=1&page=/)
+# Shopping Cart Project
+-[Live](https://vercel.com/api/toolbar/link/shopping-cart-3nbk.vercel.app?via=deployment-domains-list&p=1&page=/)
 
 ## Table of Contents
 - [Overview](#overview)
